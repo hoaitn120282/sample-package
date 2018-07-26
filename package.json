@@ -1,0 +1,22 @@
+{
+  "name": "sample-package",
+  "version": "1.0.0",
+  "description": "develop sample package",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha --timeout=3000 --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoaitn120282/sample-package.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "Henry Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoaitn120282/sample-package/issues"
+  },
+  "homepage": "https://github.com/hoaitn120282/sample-package#readme"
+}
